@@ -1,0 +1,8 @@
+org\springboot\kafka\example\config\KafkaTopicConfig.class
+org\springboot\kafka\example\payload\User.class
+org\springboot\kafka\example\Application.class
+org\springboot\kafka\example\controller\JsonMessageController.class
+org\springboot\kafka\example\controller\Messagecontroller.class
+org\springboot\kafka\example\kafka\KafkaConsumer.class
+org\springboot\kafka\example\kafka\KafkaProducer.class
+org\springboot\kafka\example\kafka\JsonKafkaProducer.class
